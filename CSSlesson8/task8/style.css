@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.all{
+    margin: 20px;
+}
+.text-link{
+    font-size: 25px;
+    color:rgb(105, 186, 159) ;
+    font-weight: bold;
+}
+
+.link:visited{
+color:rgb(29, 94, 72);
+}
+
+.text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+span{
+    font-family: serif;
+    font-size: 20px;
+}

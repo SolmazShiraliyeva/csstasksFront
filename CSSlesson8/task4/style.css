@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+
+
+.text{
+    margin: 60px;
+}
+
+.form{
+    margin: 60px;
+}
+
+.submit{
+    margin-right:20px ;
+}
+
+
+.list{
+    list-style-type: none;
+}
+
+
+
+.aqua:focus{
+ background-color:aqua;
+ width: 500px;
+}
+
+.yellow:focus{
+    background-color:yellow;
+    width: 500px;
+
+}

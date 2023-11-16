@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul{
+    list-style-type: none;
+}
+
+
+h2{
+    color:green;
+    margin: 10px;
+    text-align: center;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+.name{
+    margin: 20px;
+}
+
+.name :focus{
+background-color: grey;
+}
+
+
+.email{
+    margin: 20px;
+}
+.email :focus{
+    background-color: grey;
+    }
+
+.password{
+    margin: 20px;
+}
+.password :focus{
+    background-color: grey;
+    }
+

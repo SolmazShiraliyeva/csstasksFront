@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color:green;
+    margin: 20px;
+}
+
+p{
+    margin-bottom: 10px;
+}
+
+.list{
+    margin-left: 20px;
+    width: 200px;
+}
+
+.text-list{
+    margin: 30px;
+}
+
+li:nth-child(odd){
+    background-color: green;
+}
+
+li:nth-child(even){
+    background-color:red;
+
+}

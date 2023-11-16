@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    margin: 20px;
+    width: 500px;
+    height: 400px;
+    background-color:blueviolet;
+
+}
+
+.box:hover{
+    background-color: rgb(156, 90, 218);
+}

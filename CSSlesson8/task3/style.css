@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+h1{
+    margin: 20px;
+}
+
+ul{
+    font-size: 20px;
+    margin: 50px;
+    list-style-type: disc;
+
+}
+
+li:nth-child(1){
+   color: red;
+   background-color: rgb(220, 174, 174);
+}
