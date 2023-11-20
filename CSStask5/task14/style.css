@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.right, .left{
+width: 500px;
+height: 200vh;
+display: inline-block;
+
+}
+
+
+
+.fixed{
+    background-color: pink;
+    position: fixed;
+}
+
+.sticky{
+    background-color: antiquewhite;
+    position: sticky;
+    
+    
+}
+
+.fixed, .sticky{
+    padding:20px 30px ;
+    width: 250px;
+    height: 70px;
+}

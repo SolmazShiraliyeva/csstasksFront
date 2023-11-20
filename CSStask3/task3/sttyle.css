@@ -1,0 +1,30 @@
+*{
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+
+.box{
+    color: black;
+    border-color: red;
+text-align: center;
+width: 100px;
+padding: 10px;
+    
+}
+
+.solid{
+    border-style: solid;
+
+}
+
+.dotted{
+    border-style:dotted;
+}
+
+.dashed{
+    border-style:dashed;
+}

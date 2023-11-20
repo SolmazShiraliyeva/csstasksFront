@@ -1,0 +1,48 @@
+*{
+    margin: 20px;
+    padding: 0;
+}
+
+div{
+    text-align: justify;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align:center;
+    text-decoration: underline;
+}
+
+.bottomborder{
+padding-bottom: 10px;
+    border-bottom:3px solid black;
+    
+}
+
+.bold2{
+     font-weight: bold;
+       font-size: large; 
+}
+
+.blue{
+    color:blue;
+}
+
+.red{
+    color:red;
+}
+.green{
+    color:green;
+}
+
+.fontsize{
+    font-size:xx-large;
+}
+.bold{
+    font-weight:bold;
+}
+
+.style{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

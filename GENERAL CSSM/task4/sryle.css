@@ -1,0 +1,45 @@
+.main{
+    color: green;
+}
+
+.lorem{
+    font-weight: bold;
+}
+
+.all{
+    color:orange;
+}
+.only{
+    font-style: italic;
+}
+
+.first{
+    
+    list-style: disc;
+
+}
+
+.second{
+    color: red;
+    list-style: circle;
+}
+
+table, th, td{
+    border: 1px solid;
+}
+
+.td1{
+    color: blue;
+}
+
+.td2{
+     color:rgb(128, 10, 240);
+}
+
+div{
+    color: red;
+}
+
+.link{
+    color: skyblue;
+}

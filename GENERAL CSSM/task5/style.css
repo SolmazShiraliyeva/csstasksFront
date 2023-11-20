@@ -1,0 +1,47 @@
+h1{
+    color: white;
+    background-color: red;
+}
+
+.text{
+    color : yellow;
+    text-align: center;
+
+}
+.first{
+    background-color: brown;
+    font-style: italic;
+    text-align: center;
+
+}
+
+.text2{
+    background-color: aqua;
+    color: white;
+}
+.second{
+    background-color: blue;
+}
+.textall{
+    color:red;
+}
+.main{
+    color: blue;
+}
+.list{
+    background-color:yellow;
+}
+.book{
+    color: white;
+    background-color:black;
+}
+.both{
+    color:blue;
+
+}
+div{
+    background-color: yellow;
+}
+.lists{
+    color: white;
+}

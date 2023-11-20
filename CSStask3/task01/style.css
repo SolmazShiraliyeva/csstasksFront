@@ -1,0 +1,20 @@
+
+.boxes{
+    width: 300px;
+    
+
+}
+.box1{
+    outline-style: dotted;
+    outline-color: blue;
+}
+.box2{
+    outline-style: dashed;
+    outline-color: yellow; 
+
+}
+.box3{
+    outline-style: solid;
+    outline-color: yellowgreen;
+
+}

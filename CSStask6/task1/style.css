@@ -1,0 +1,269 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-color: #1D1E26;
+    width: 1490px;
+    /* height: 50px; */
+    /* padding: 0px 0 ;s */
+    
+
+}
+.link{
+    text-decoration: none;
+    color: #F2F2F2;
+}
+
+ul{
+list-style-type: none;
+margin: auto;
+width: fit-content;
+}
+.second{
+    background-color:#8C111B ;
+}
+.list{
+    padding: 10px 15px;
+    /* margin: 0 10px; */
+    display: inline-block;
+    text-decoration: none;
+}
+
+
+
+.text{
+    /*margin-top: 20%;
+    */text-align: center;
+    color:#F2F2F2;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+   
+}
+.main{
+    background-image: url(images/Component\ 1.svg) ;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 1490px;
+    height: 600px;
+}
+
+h1{
+font-family: Lora;
+font-size: 72px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+p{
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+.icon{
+    position: absolute;
+    top: 80%;
+    left: 50%;
+}
+
+.middle{
+    width: 1490px;
+    
+background: #1D1E26;
+position: absolute;
+top: 80%;
+display: inline-block;
+
+/* margin: 10px 0; */
+}
+
+.Biography{
+    position: absolute;
+    left: 20%;
+    top: 50px;
+
+}
+
+.bio{
+    font-size: medium;
+    color:#F2F2F2;
+    text-align: justify;
+    width: 400px;
+    height: 250px;
+
+
+}
+h2{
+    color:#F2F2F2;
+    text-align: center;
+}
+
+
+
+.img{
+    position: relative;
+    left: 60%;
+    /* margin-left: 250px; */
+    width: 300px;
+    height: 500px;
+}
+
+.last{
+    width: 1490px;
+    height: 800px;
+    top: 1085px;
+    
+    background: #1D1E26;
+    position: absolute;
+}
+
+h2{
+    color: #FFF;
+text-align: center;
+font-family: Lora;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+/* line-height: normal; */
+}
+
+.top{
+    display: block;
+
+}
+
+.top_image{
+    left: 20%;
+    display: inline-block;
+    padding:5px;
+    width: 150px;
+    height: 150px;
+
+    /* margin: 30px; */
+}
+
+.box1{
+    border: 1px solid #1D1E26;
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    left: 5%;
+}
+.box2{
+    border: 1px solid #1D1E26;
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    left: 35%; 
+
+}
+.box3{
+    border: 1px solid #1D1E26;
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    left: 65%; 
+
+}
+.end{
+    display: block;
+}
+.box4{
+    border: 1px solid #1D1E26;
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    left: 5%; 
+    bottom: 25%;
+
+}
+.box5{
+    border: 1px solid #1D1E26;
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    left: 35%; 
+    bottom: 25%;
+
+}.box6{
+    border: 1px solid #1D1E26;
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    left: 65%; 
+    bottom: 25%;
+
+}
+.end_image{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    padding-left: 2px;
+    padding-top: 10px;
+    position: absolute;
+    /* text-align: left; */
+}
+/* .image1{
+    padding:5px;
+} */
+.orderlist{
+    display: inline-block;
+    padding: 50px;
+    /* margin: 30px; */
+    position: absolute;
+    right: 10px;
+    list-style-type: decimal;
+    color: #F2F2F2;
+text-align: justify;
+font-family: Lato;
+font-size: 14px;
+font-style: normal;
+}
+
+.lasttext{
+    font-size: small;
+    /* position: absolute; */
+    /* bottom: 5%; */
+    /* left: 40%; */
+    color: #F2F2F2;
+text-align: center;
+margin-top: 45%;
+
+font-family: Lato;
+font-size: 15px;
+font-style: normal;
+/* font-weight: 700; */
+line-height: normal;
+
+}
+a{
+    color:#F2F2F2;
+}
+
+
+.divlast{
+    background-color: #8C111B;
+    width: 1490px;
+    position:absolute;
+top: 1880px;
+}
+.footer{
+    /* background-color: #8C111B;
+    width: 1490px; */
+    color:#F2F2F2;
+/* text-align: center; */
+padding:10px ;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+/* line-height: normal; */
+}

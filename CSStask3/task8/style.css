@@ -1,0 +1,42 @@
+.none{
+    border-style: none;
+}
+.dotted{
+    border-style:dotted;
+
+}
+.dashed{
+    border-style:dashed;
+
+}
+.solid{
+    border-style:solid;
+
+}
+.groove{
+    border:  4px groove  rgb(61, 155, 61) ;
+
+
+}
+.ridge{
+    border:  4px ridge  rgb(61, 155, 61) ;
+
+
+
+}
+.inset{
+    border:  4px inset  rgb(61, 155, 61) ;
+
+
+
+}
+.outset{
+ 
+    border:  4px outset  rgb(61, 155, 61) ;
+
+
+}
+.double{
+    border-style:double;
+
+}

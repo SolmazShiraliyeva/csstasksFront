@@ -1,0 +1,20 @@
+span{
+    font-weight: bold;
+}
+
+.red{
+    border: 3px solid red;
+}
+
+ .green{
+    border: 3px solid green;
+ }
+
+ .multicolor{
+    border-bottom: 3px solid blue;
+    border-top: 3px solid red;
+    border-right: 3px solid green;
+    border-left: 3px solid yellow;
+
+
+ }

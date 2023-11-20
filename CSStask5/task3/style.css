@@ -1,0 +1,45 @@
+*{
+    
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div1{
+    border: 1px solid #000;
+    background-color: aliceblue;
+    width: 220px;
+    height: 150px;
+    position: absolute;
+}
+
+.div2{
+    
+    border: 1px solid #000;
+    background-color: aliceblue;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+
+.div3{
+    border: 1px solid #000;
+    background-color: aliceblue;
+    width: 320px;
+    height: 95px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 250px ;
+
+}
+
+.div4{
+    border: 1px solid #000;
+    background-color: aliceblue;
+    width: 90px;
+    height: 300px;
+    position: absolute;
+    margin-left: 320px ;
+}

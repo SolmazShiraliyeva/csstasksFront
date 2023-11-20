@@ -1,0 +1,14 @@
+h1{
+    padding: 10px 0;
+    border-top: 3px solid red;
+    border-bottom: 3px solid red;
+
+}
+
+.bold{
+    font-weight:bold;
+}
+.underline{
+     text-decoration: underline;
+
+}

@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:rgb(211, 194, 173);
+}
+
+h1{
+    color:white;
+    background-color:black;
+    text-align: center;
+}
+
+a{
+    color: red;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+.right, .left{
+    display:inline-block;
+width: 514px;
+margin: 10px;
+}
+li{
+    list-style: disc;
+}
+h2{
+    margin: 5px;
+}

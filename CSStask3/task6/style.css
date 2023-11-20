@@ -1,0 +1,20 @@
+*{
+    width: 500px;
+}
+
+
+h2{
+    color: violet;
+    border: 3px dotted violet;
+}
+
+.first{
+    color:red;
+    border:3px solid red;
+    font-weight: bold;
+}
+
+.second{
+    color: green;
+    border: 3px inset rgb(237, 232, 232);
+}

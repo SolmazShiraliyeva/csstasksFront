@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sticky{
+    position: sticky;
+    top: 0;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+    background-color: green;
+    border: 2px solid green;
+}
+
+div{
+    padding-bottom: 500vh;
+}

@@ -1,0 +1,46 @@
+*{
+    margin: 5px;
+    box-sizing:border-box;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 20px;
+}
+
+
+
+ul{
+    list-style: none;
+    font-weight: bold;
+}
+
+
+.fontstyle{
+    color: red;
+}
+
+.paragraph1{
+    font-style: italic;
+}
+
+
+.href{
+    color: blue;
+
+}
+.paragraph2{
+    border: 3px dashed black;
+}
+.justify{
+    color: red;
+    border: 3px dashed black;
+    padding: 5px;
+
+}
+.all{
+    font-weight: 100;
+}
+.table{
+    color:blue;
+}

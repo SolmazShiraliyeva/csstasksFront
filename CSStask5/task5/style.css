@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.grey{
+    background-color: grey;
+    width: 100vh;
+    height: 300px;
+    margin: 10px;
+    position: static;
+
+}
+
+.red{
+    background-color: red;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    margin: 10px;
+}
+.pink{
+    background-color: pink;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+
+}
+.yellow{
+    background-color: yellow;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    left: 160px;
+    top: 118px;
+
+}
+.green{
+    background-color: green;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    left: 185px;
+    top: 50px;
+
+}
+.blue{
+    background-color: blue;
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    left: 210px;
+    top: 100px;
+
+}

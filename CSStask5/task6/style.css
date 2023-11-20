@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.solid{
+    margin:20px 40%;
+    position: absolute;
+    border: 1px solid #000;
+    width: 300px;
+    height: 400px;
+}
+
+.blue{
+    top: 200px;
+    height: 30px;
+    width: 300px;
+    background-color: blue;
+    position: absolute;
+}
+
+
+.black{
+    background-color: black;
+    height: 30px;
+    width: 118.5px;
+    position: absolute;
+    right: 0;
+    top: 75px;
+}
+
+.yellow{
+    background-color: yellow;
+    height: 30px;
+    width: 100%;
+    top: 20%;
+    position: absolute;
+}
+
+.purple{
+    background-color: blueviolet;
+    width: 30px;
+    height: 400px;
+    position: absolute;
+    left: 180px;
+}
+

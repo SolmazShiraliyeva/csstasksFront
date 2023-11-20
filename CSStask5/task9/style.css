@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.text{
+    border:1px solid grey;
+    margin: 20px;
+width: 400px;
+height: 160px;
+padding: 15px 0;
+position: absolute;
+}
+
+.target{
+    background-color: blueviolet;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
